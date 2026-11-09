@@ -1,16 +1,41 @@
-# React + Vite
+# HackRush 2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D website for HackRush 2026, the flagship hackathon of Tech4Hack, IGDTUW.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+HackRush 2026 is an online hackathon bringing together students from different academic backgrounds to explore innovation, technology and creative problem-solving.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Interactive 3D visual elements
+- Modern and responsive design
+- Hackathon themes and tracks
+- Event timeline
+- Eligibility information
+- Awards and recognition details
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- CSS
+- React Three Fiber
+- Drei
+- Lucide React
+
+## Run Locally
+
+1. Clone the repository.
+2. Install dependencies:
+
+   npm install
+
+3. Start the development server:
+
+   npm run dev
+
+4. Build for production:
+
+   npm run build
